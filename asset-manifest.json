@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e31c94a2.css",
+    "main.js": "/static/js/main.7eae3cfc.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/cybergarden15-03.jpg": "/static/media/cybergarden15-03.12d87324ea92921ae713.jpg",
+    "static/media/cybergarden14-01.jpg": "/static/media/cybergarden14-01.e7727d5a8eed4ad8cbd4.jpg",
+    "static/media/cybergarden15-02.jpg": "/static/media/cybergarden15-02.03f1ed1b9c43af30b31e.jpg",
+    "static/media/cybergarden14-02.jpg": "/static/media/cybergarden14-02.935b1e5f61625d5c3ff7.jpg",
+    "static/media/cybergarden14-03.jpg": "/static/media/cybergarden14-03.6314dd5483d2babc90d3.jpg",
+    "static/media/cybergarden15-01.jpg": "/static/media/cybergarden15-01.f9461ac308a91bc6663f.jpg",
+    "static/media/hackathoner1.jpg": "/static/media/hackathoner1.34c1805d1ca5c2c504b6.jpg",
+    "index.html": "/index.html",
+    "static/media/expand-icon.svg": "/static/media/expand-icon.53dedd72e79a66f9cb2d323d62c74767.svg",
+    "main.e31c94a2.css.map": "/static/css/main.e31c94a2.css.map",
+    "main.7eae3cfc.js.map": "/static/js/main.7eae3cfc.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e31c94a2.css",
+    "static/js/main.7eae3cfc.js"
+  ]
+}
